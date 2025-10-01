@@ -114,5 +114,5 @@ class TabellerEnhetsTests {
 }
 <<<<<<< HEAD
 =======
-//neineinei heisann snuppa
+//new test
 >>>>>>> 8d4de485484bb494a1c69d5d434762be202df62c
