@@ -110,9 +110,4 @@ class TabellerEnhetsTests {
 		assertArrayEquals(tabell1, Tabeller.settSammen(tabell3, tabell1));
 		assertArrayEquals(tabell1, Tabeller.settSammen(tabell1, tabell3));
 	}
-} //Test2
 }
-<<<<<<< HEAD
-=======
-//new test
->>>>>>> 8d4de485484bb494a1c69d5d434762be202df62c
