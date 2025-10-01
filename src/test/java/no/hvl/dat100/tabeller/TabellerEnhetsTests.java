@@ -112,3 +112,7 @@ class TabellerEnhetsTests {
 	}
 } //Test2
 }
+<<<<<<< HEAD
+=======
+//neineinei heisann snuppa
+>>>>>>> 8d4de485484bb494a1c69d5d434762be202df62c
