@@ -112,4 +112,4 @@ class TabellerEnhetsTests {
 	}
 } //Test
 }
-//neineinei
+//neineinei heisann snuppa
